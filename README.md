@@ -2,6 +2,16 @@
 
 Interactive multiplayer game for AI critical thinking training at Wick Marketing.
 
+---
+
+## 🚀 New Here?
+
+**Start with:** [START_HERE.md](./START_HERE.md) - Choose the right deployment guide for you!
+
+**Want to deploy FREE?** → [VERCEL_RENDER_GUIDE.md](./VERCEL_RENDER_GUIDE.md) (15 minutes, $0/month)
+
+---
+
 ## Overview
 
 AI Detective is a real-time, web-based game where teams compete to identify AI hallucinations, spot red flags, write better prompts, and make smart AI tool choices. Perfect for training sessions on AI literacy and critical thinking.
@@ -199,18 +209,23 @@ The app uses Tailwind CSS. Customize colors in:
 
 ## Deployment
 
-📦 **Deployment Guides:**
-- **[VERCEL_ONLY_DEPLOY.md](./VERCEL_ONLY_DEPLOY.md)** - Deploy everything for FREE (Vercel + Render)
+### 🚀 Recommended: 100% FREE Deployment
+
+Deploy to **Vercel + Render** for completely free hosting:
+
+**📘 [VERCEL_RENDER_GUIDE.md](./VERCEL_RENDER_GUIDE.md)** ← Complete step-by-step guide (15 minutes)
+
+- ✅ **$0/month forever**
+- ✅ Client on Vercel (free tier)
+- ✅ Server on Render (free tier)
+- ✅ Auto-deploys from GitHub
+- ✅ No code changes needed
+
+### Other Deployment Options:
+
 - **[QUICK_DEPLOY.md](./QUICK_DEPLOY.md)** - Quick deployment checklist
-- **[DEPLOYMENT.md](./DEPLOYMENT.md)** - Complete deployment guide
-
-### Recommended: Free Deployment (Vercel + Render)
-
-**Client:** Vercel (Free)
-**Server:** Render Free Tier (Free)
-**Total Cost:** $0/month
-
-See [VERCEL_ONLY_DEPLOY.md](./VERCEL_ONLY_DEPLOY.md) for full instructions.
+- **[DEPLOYMENT.md](./DEPLOYMENT.md)** - Full deployment guide (Railway, Render options)
+- **[VERCEL_ONLY_DEPLOY.md](./VERCEL_ONLY_DEPLOY.md)** - Comparison of all free options
 
 Quick overview:
 

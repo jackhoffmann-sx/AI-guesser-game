@@ -145,10 +145,14 @@ Building a web-based interactive game for AI critical thinking training at Wick 
 
 ### Deployment Preparation:
 - ✅ Environment variable configuration
-- ✅ Production CORS setup
+- ✅ Production CORS setup with dynamic origins
 - ✅ Vercel configuration (vercel.json)
 - ✅ Railway Procfile
 - ✅ Complete deployment guide (DEPLOYMENT.md)
 - ✅ Quick deployment checklist (QUICK_DEPLOY.md)
+- ✅ **Vercel + Render step-by-step guide (VERCEL_RENDER_GUIDE.md)** ⭐ Recommended
+- ✅ Vercel-only options guide (VERCEL_ONLY_DEPLOY.md)
+- ✅ Printable deployment checklist (DEPLOYMENT_CHECKLIST.md)
+- ✅ Deployment info template (DEPLOYMENT_INFO.md)
 - ✅ .gitignore file
 - ✅ Environment variable examples
