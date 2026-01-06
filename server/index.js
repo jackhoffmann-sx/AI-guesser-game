@@ -14,6 +14,7 @@ const allowedOrigins = [
   'http://localhost:5174',
   'http://localhost:5175',
   'http://localhost:5176',
+  'https://ai-guesser-game.vercel.app',
   // Add your production URLs here:
   // 'https://your-app.vercel.app',
   // 'https://your-custom-domain.com'
