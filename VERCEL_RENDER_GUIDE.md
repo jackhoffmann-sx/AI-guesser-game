@@ -170,7 +170,7 @@ Now we need to tell the server to accept connections from your Vercel client.
 2. **Edit** `server/index.js`
 3. **Find the `allowedOrigins` array** (around line 12-20)
 4. **Add your Vercel URL:**
-
+1
 ```javascript
 const allowedOrigins = [
   'http://localhost:5173',
